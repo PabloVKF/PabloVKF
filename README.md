@@ -1,4 +1,4 @@
-### Hi there! I’m Pablo, nice to meet you! 👋
+### Hi there! I’m Pablo, nice to meet you! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 - 🐍 I’m currently working on Python back-end project
 - ♟ I’m currently learning about design patterns
@@ -9,9 +9,7 @@
 
 <div>
   <a href="https://github.com/PabloVKF">
-  <!--
   <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api?username=PabloVKF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVKF&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
