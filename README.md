@@ -4,7 +4,7 @@
 - ♟ I’m currently learning about design patterns
 - 💬 I’m looking to collaborate on any discussions of programming
 - 📚 I’m always looking for progamming study groups
-- 📭 Feel free to recomendation all kind of programimg study material
+- 📭 Feel free to recomendation all kind of programming study material
 
 
 <div>
