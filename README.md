@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/PabloVKF">
-  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api?username=PabloVKF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVKF&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=PabloVKF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVKF&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
