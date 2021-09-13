@@ -2,7 +2,7 @@
 
 - 🐍 I’m currently working on Python back-end project
 - ♟ I’m currently learning about design patterns
-- 💬 I’m looking to collaborate on any discussions of programimg
+- 💬 I’m looking to collaborate on any discussions of programming
 - 📚 I’m always looking for progamming study groups
 - 📭 Feel free to recomendation all kind of programimg study material
 
@@ -24,8 +24,10 @@
   <a href = "mailto:pablovkf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pablo-von-knoblauch-font%C3%A3o-319073178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/PabloVKF/PabloVKF/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+![Snake animation](https://github.com/PabloVKF/PabloVKF/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
